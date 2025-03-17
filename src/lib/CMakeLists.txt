@@ -1,0 +1,3 @@
+﻿add_subdirectory(OGPRParser)
+add_subdirectory(RadarProcessor)
+add_subdirectory(ScanImageProvider)
